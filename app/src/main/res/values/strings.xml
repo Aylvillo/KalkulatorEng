@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+
+    <string name="Clean_2">Clean</string>
+    <string name="Deleat">Deleat</string>
+    <string name="scob">(</string>
+    <string name="scobR">)</string>
+    <string name="ymnozh">*</string>
+    <string name="delenie">\\</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="tree">3</string>
+    <string name="fore">4</string>
+    <string name="fife">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eght">8</string>
+    <string name="nine">9</string>
+    <string name="zapataya">.</string>
+    <string name="rezult">=</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="delet"><![CDATA[<]]></string>
+    <string name="zero">0</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tang">tag</string>
+    <string name="ctg">ctg</string>
+    <string name="X__2">^2</string>
+    <string name="coren">coren</string>
+    <string name="X_factorial">!</string>
+    <string name="log">log</string>
+    <string name="enter_text">поле ввода</string>
+    <string name="history">исторя</string>
+</resources>
